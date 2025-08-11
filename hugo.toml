@@ -74,7 +74,7 @@ weight = 30
 
 [[menus.social]]
 name = "GitHub"
-url = "https://github.com/username"
+url = "https://github.com/geonaut"
 weight = 10
 
   [menus.social.params]
@@ -82,8 +82,7 @@ weight = 10
 
 [[menus.social]]
 name = "Twitter"
-url = "https://twitter.com/username"
-weight = 20
+url = "https://twitter.com/_geonaut"
 
   [menus.social.params]
   icon = "twitter"
@@ -98,7 +97,7 @@ weight = 30
 
 [[menus.social]]
 name = "Email"
-url = "mailto:your.email@example.com"
+url = "mailto:hello@geonaut.co.uk"
 weight = 40
 
   [menus.social.params]
@@ -118,11 +117,11 @@ stickyHeader = true
 colorScheme = "default"
 
   [params.logo]
-  image = "/images/logo.svg"
+  image = "/images/favicon.png"
   link = "/"
 
   [params.favicon]
-  svg = "/favicon.svg"
+  svg = "/favicon.ico"
 
   [params.author]
   name = "Geonaut"

@@ -6,14 +6,21 @@
     <description>Recent content on Geonaut</description>
     <generator>Hugo</generator>
     <language>en-UK</language>
-    <lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Software engineer based in London</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quis neque feugiat, egestas lorem id, eleifend dolor. Aenean non dapibus tortor, eu viverra massa. Nam justo turpis, dignissim in tempor in, pulvinar ac risus. Maecenas non dictum orci, in suscipit lacus. Maecenas in scelerisque sapien. Fusce quam nibh, elementum vitae augue in, euismod porta dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi et pretium neque. Vestibulum lorem urna, blandit in fringilla id, viverra eget erat. Vivamus venenatis lorem ullamcorper elit hendrerit ultrices.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

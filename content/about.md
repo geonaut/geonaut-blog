@@ -1,8 +1,8 @@
 ---
 title: "About"
 layout: "about"
-summary: "Learn about Hugo Narrow theme and its technology stack"
-date: 2024-01-01T00:00:00+08:00
+summary: "Software engineer based in London"
+date: 2025-08-11T00:00:00+00:00
 links:
   - name: "Hugo Docs"
     url: "https://gohugo.io"
@@ -11,21 +11,15 @@ links:
   - name: "Tailwindcss"
     url: "https://tailwindcss.com"
     description: "CSS framework"
-  
-
 ---
 
 ## About
 
-Hugo Narrow is a modern, clean, and minimal Hugo theme built with Tailwind CSS 4.0. It's designed as a blog theme with extensive customization options including multiple color schemes, dark mode support, and responsive design.
+Hello. I am Geonaut, a software engineer working in London. I work mainly in Golang and Python, deploying distributed systems to Kubernetes.
 
 ## Technology Stack
 
-- Hugo Extended
-- Tailwind CSS 4.0
-- @tailwindcss/typography
-- Glightbox
-- fjGallery
-- Macy.js
-- gumshoe
-- ...
+- Golang
+- Python
+- Kubernetes
+- Bazel
